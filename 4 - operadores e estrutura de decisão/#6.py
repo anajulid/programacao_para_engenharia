@@ -1,0 +1,13 @@
+#6
+
+
+nome = input("digite seu nome: ")
+media = float(input("digite sua média: "))
+
+if media < 5:
+    print ("Aluno reprovado")
+if 5 < media < 7:
+    print ("Aluno em recuperação")
+if media >= 7:
+    print ("Aluno Aprovado")
+              
