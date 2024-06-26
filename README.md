@@ -1,7 +1,8 @@
 # programação para engenharia - python 📚
 
 ## 🌟
-bem-vindos ao repositório da disciplina de Programação para Engenharia! Ele é referente à primeira fase do curso de Engenharia de Computação da UNISATC, ministrada pela Professora Cris. Vou deixar aqui os códigos dos exercícios de Python que desenvolvemos durante as aulas, indo desde as estruturas mais básicas até as mais avançadas, a medida que vamos avançando no curso.
+bem-vindos ao meu repositório da disciplina de Programação para Engenharia!
+A disciplina faz parte da primeira fase do curso de Engenharia de Computação da UNISATC e é ministrada pela Professora Cris. Vou deixar aqui os códigos dos exercícios de Python que desenvolvemos durante as aulas, indo desde as estruturas mais básicas até as mais avançadas, a medida que vamos avançando no curso.
 
 ## conteúdo 📋
 os códigos e exemplos deste repositório incluem:
