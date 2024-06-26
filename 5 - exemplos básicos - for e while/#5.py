@@ -1,29 +1,15 @@
-numero = 1
-soma = 0
-i = 0
+numero = int(input("digite o 1º número: "))
+
 maior = numero
-menor = numero
+menor = numero 
 
-while numero > 0:
-    numero = int(input("digite um valor inteiro: "))
-
-    if numero < 0:
-        print("fim do programa")
-        break
-
-    if numero >= 0:
-        soma += numero 
-        i += 1
+for contador in range(1, 10):
+    numero = int(input("digite mais um número: "))
 
     if numero > maior:
         maior = numero
-
     if numero < menor:
         menor = numero
 
-media = soma / i
-
-print("soma dos números digitados: ",soma)
-print("média dos números digitados",media)
-print("maior número digitado: ",maior)
-print("menor número digitado: ",menor)
+print("o maior número é: ", maior)
+print("o menor número é: ", menor)

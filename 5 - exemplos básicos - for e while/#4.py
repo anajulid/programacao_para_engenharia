@@ -1,8 +1,6 @@
-numero = int(input("digite um número: "))
-i = 1
+senha = int(input("digite a senha: "))
 
-for contador in range (1, numero+1):
-    i = i * contador 
-    contador += 1
+while senha != 987654:
+    senha = int(input("senha incorreta! digite a senha novamente: "))
 
-print(f"o fatorial de {numero} = ", i)
+print("cofre aberto!")
